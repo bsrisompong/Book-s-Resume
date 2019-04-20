@@ -9,10 +9,10 @@ class App extends Component {
     return (
       /*Page Container*/
       // class="w3-light-grey"
-      <body>
-        <div className="w3-content w3-margin-top w3-margin-bottom " style={{maxWidth: 1600}}>
+      <body class="w3-light-grey">
+        <div className="w3-content w3-margin-bottom" style={{maxWidth: 1600}}>
           {/* The Grid */}
-          <div className="w3-row-padding">
+          <div className="w3-row-padding ">
 
             {/* Left Column */}
             {/* <div className="w3-quarter"> */}
@@ -111,7 +111,7 @@ class App extends Component {
                   <h5 class="w3-opacity"><b>A comparative study of deep neural network architectures for forex daily trend prediction</b></h5>
                   <h6 class="w3-text-teal"><i className="fa fa-calendar fa-fw w3-margin-right"></i>2019</h6>
                   <div>
-                    <h6 class="w3-text-grey"><i className="fa fa-question fa-fw w3-margin-right"></i>Problem : Time Series Binart Classification</h6>
+                    <h6 class="w3-text-grey"><i className="fa fa-question fa-fw w3-margin-right"></i>Problem : Time Series Binary Classification</h6>
                     <h6 className="w3-text-grey"><i className="fa fa-code-branch fa-fw w3-margin-right"></i>Algorithms : LSTM, CNN, FFNN, SVM, Linear Regression</h6>
                     <h6 class="w3-text-grey"><i className="fa fa-microchip fa-fw w3-margin-right"></i>Technologies : Keras, Scikit-learn</h6>
                   </div>
@@ -124,7 +124,7 @@ class App extends Component {
                 <div class="container-fluid">
                   <div class="row w3-margin-bottom" >
                     <div class="col-md ">
-                      <h6 class="w3-text-grey"><i className="fa fa-brain fa-fw w3-margin-right"></i>artificial intelligence</h6>
+                      <h6 class="w3-text-grey"><i className="fa fa-brain fa-fw w3-margin-right"></i>Artificial Intelligence</h6>
                     </div>
                     <div class="col-md ">
                       <h6 class="w3-text-grey"><i className="fa fa-dollar-sign fa-fw w3-margin-right"></i>Investment</h6>
