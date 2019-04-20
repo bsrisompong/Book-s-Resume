@@ -89,14 +89,14 @@ class App extends Component {
               <div className="w3-container w3-card w3-white w3-margin-bottom">
                 <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
                 <div class="w3-container">
-                  <h5 class="w3-opacity"><b>Data Scientist Intern / KASIKORN Business-Technologt Group</b></h5>
+                  <h5 class="w3-opacity"><b>Data Scientist Intern / KASIKORN Business-Technology Group</b></h5>
                   <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2018 - July 2018</h6>
                   <p>Performed data analysis and predictive modeling on bank customer information to identify customers with a high propensity to acquire personal loans </p>
                   <br/>
                 </div>
               </div>
               <div class="w3-container w3-card w3-white w3-margin-bottom">
-                <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+                <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-book fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
                 <div class="w3-container">
                   <h5 class="w3-opacity"><b>Chulalongkorn University</b></h5>
                   <h6 class="w3-opacity"><b>Bachelor of Science in Computer Science</b></h6>
