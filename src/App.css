@@ -23,6 +23,32 @@
   color: #61dafb;
 }
 
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+div.w3-container p {
+    display: block;
+    margin-block-start: 0.25em;
+    margin-block-end: 0.25em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+div#one.progress-bar{
+  background-color: grey !important;
+
+}
+
+.w3-light-grey{
+      margin: auto;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
